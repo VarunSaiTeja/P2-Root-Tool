@@ -37,6 +37,11 @@ RootTool
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:RootTool.My.Resources.Resources.paypal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:RootTool.My.Resources.Resources.paytm">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

@@ -34,9 +34,11 @@ Partial Class Tool
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox4 = New System.Windows.Forms.PictureBox()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
@@ -145,9 +147,9 @@ Partial Class Tool
         '
         Me.PictureBox3.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox3.Image = Global.RootTool.My.Resources.Resources.whatsapp
-        Me.PictureBox3.Location = New System.Drawing.Point(97, 326)
+        Me.PictureBox3.Location = New System.Drawing.Point(38, 321)
         Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(47, 44)
+        Me.PictureBox3.Size = New System.Drawing.Size(58, 44)
         Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox3.TabIndex = 15
         Me.PictureBox3.TabStop = False
@@ -156,9 +158,9 @@ Partial Class Tool
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.Image = Global.RootTool.My.Resources.Resources.youtube
-        Me.PictureBox1.Location = New System.Drawing.Point(301, 322)
+        Me.PictureBox1.Location = New System.Drawing.Point(140, 317)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(57, 53)
+        Me.PictureBox1.Size = New System.Drawing.Size(58, 53)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox1.TabIndex = 16
         Me.PictureBox1.TabStop = False
@@ -167,12 +169,23 @@ Partial Class Tool
         '
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox2.Image = Global.RootTool.My.Resources.Resources.paytm
-        Me.PictureBox2.Location = New System.Drawing.Point(200, 326)
+        Me.PictureBox2.Location = New System.Drawing.Point(242, 321)
         Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(45, 44)
+        Me.PictureBox2.Size = New System.Drawing.Size(58, 44)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox2.TabIndex = 17
         Me.PictureBox2.TabStop = False
+        '
+        'PictureBox4
+        '
+        Me.PictureBox4.BackColor = System.Drawing.Color.Transparent
+        Me.PictureBox4.Image = Global.RootTool.My.Resources.Resources.paypal
+        Me.PictureBox4.Location = New System.Drawing.Point(344, 314)
+        Me.PictureBox4.Name = "PictureBox4"
+        Me.PictureBox4.Size = New System.Drawing.Size(58, 58)
+        Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.PictureBox4.TabIndex = 18
+        Me.PictureBox4.TabStop = False
         '
         'Tool
         '
@@ -182,6 +195,7 @@ Partial Class Tool
         Me.BackgroundImage = Global.RootTool.My.Resources.Resources.background
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(447, 391)
+        Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.PictureBox3)
@@ -201,6 +215,7 @@ Partial Class Tool
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -217,4 +232,5 @@ Partial Class Tool
     Friend WithEvents PictureBox3 As PictureBox
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents PictureBox2 As PictureBox
+    Friend WithEvents PictureBox4 As PictureBox
 End Class

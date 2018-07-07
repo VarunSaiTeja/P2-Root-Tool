@@ -109,7 +109,7 @@
             boottwrp.StartInfo.CreateNoWindow = True
             boottwrp.Start()
             boottwrp.WaitForExit()
-            MsgBox("TWRP 3.2.1.0 Flashed")
+            MsgBox("TWRP 3.2.2.0 Flashed")
         End If
     End Sub
 
@@ -167,7 +167,11 @@
     End Sub
 
     Private Sub Tool_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        PictureBox2.Select()
+        PictureBox4.Select()
 
+    End Sub
+
+    Private Sub PictureBox4_Click(sender As Object, e As EventArgs) Handles PictureBox4.Click
+        Process.Start("https://www.paypal.me/varunsaiteja")
     End Sub
 End Class
