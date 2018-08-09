@@ -27,8 +27,8 @@
     <SupportUrl>https://github.com/VarunSaiTeja</SupportUrl>
     <ProductName>Lenovo P2 Root Tool</ProductName>
     <PublisherName>Varun</PublisherName>
-    <ApplicationRevision>2</ApplicationRevision>
-    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>2.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>

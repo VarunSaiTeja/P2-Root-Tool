@@ -57,3 +57,23 @@ C:\Users\Varun\Documents\GitHub\P2-Root-Tool\RootTool\obj\Debug\RootTool.applica
 C:\Users\Varun\Documents\GitHub\P2-Root-Tool\RootTool\obj\Debug\RootTool.exe
 C:\Users\Varun\Documents\GitHub\P2-Root-Tool\RootTool\obj\Debug\RootTool.xml
 C:\Users\Varun\Documents\GitHub\P2-Root-Tool\RootTool\obj\Debug\RootTool.pdb
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\bin\Debug\RootTool.exe.config
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\bin\Debug\RootTool.exe.manifest
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\bin\Debug\RootTool.application
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\bin\Debug\RootTool.exe
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\bin\Debug\RootTool.pdb
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\bin\Debug\RootTool.xml
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.vbprojAssemblyReference.cache
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.Root.resources
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.Stock.resources
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.Tool.resources
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.Resources.resources
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.Reboot.resources
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.vbproj.GenerateResource.cache
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.vbproj.CoreCompileInputs.cache
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.TrustInfo.xml
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.exe.manifest
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.application
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.exe
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.xml
+D:\Coding\Visual Basic\P2-Root-Tool\RootTool\obj\Debug\RootTool.pdb

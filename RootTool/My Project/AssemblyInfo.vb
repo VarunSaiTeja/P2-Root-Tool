@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("RootTool")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("RootTool")>
+<Assembly: AssemblyTitle("Lenovo P2 Root Tool")>
+<Assembly: AssemblyDescription("A powerful tool to root your P2 simply")>
+<Assembly: AssemblyCompany("Varun")>
+<Assembly: AssemblyProduct("P2RootTool")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
