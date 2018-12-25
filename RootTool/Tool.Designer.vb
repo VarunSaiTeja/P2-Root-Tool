@@ -146,7 +146,7 @@ Partial Class Tool
         'PictureBox3
         '
         Me.PictureBox3.BackColor = System.Drawing.Color.Transparent
-        Me.PictureBox3.Image = Global.RootTool.My.Resources.Resources.whatsapp
+        Me.PictureBox3.Image = Global.RootTool.My.Resources.Resources.telegram
         Me.PictureBox3.Location = New System.Drawing.Point(38, 321)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(58, 44)

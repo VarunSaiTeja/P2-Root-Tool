@@ -52,6 +52,11 @@ RootTool
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:RootTool.My.Resources.Resources.telegram">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:RootTool.My.Resources.Resources.whatsapp">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

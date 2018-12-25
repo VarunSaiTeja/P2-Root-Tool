@@ -27,8 +27,8 @@
     <SupportUrl>https://github.com/VarunSaiTeja</SupportUrl>
     <ProductName>Lenovo P2 Root Tool</ProductName>
     <PublisherName>Varun</PublisherName>
-    <ApplicationRevision>4</ApplicationRevision>
-    <ApplicationVersion>2.1.0.%2a</ApplicationVersion>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>2.2.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -210,6 +210,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\paypal.png" />
+    <None Include="Resources\telegram.png" />
     <Content Include="root tool.ico" />
   </ItemGroup>
   <ItemGroup>
