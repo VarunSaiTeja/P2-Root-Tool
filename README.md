@@ -1,7 +1,7 @@
 # P2-Root-Tool
 Confused after seeing this all files?
 If you want to open my tool in visual studio
-Open Checker.sln with visual studio
+Open RootTool.sln with visual studio
 You can understand somethong
 
 If you want to test the tool just run
